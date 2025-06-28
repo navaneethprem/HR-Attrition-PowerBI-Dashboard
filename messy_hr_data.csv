@@ -1,0 +1,11 @@
+EmployeeID,Department,Gender,Age,JobRole,Attrition,MonthlyIncome,JobSatisfaction,YearsAtCompany
+1001.0,Sales,Male,25.0,Sales Executive,Yes,3000,3,1
+1002.0,sales,Female,30.0,Sales Executive,No,4500,4,2
+1002.0,Sales,Female,30.0,Sales Executive,No,4500,,2
+1003.0,HR,Female,35.0,HR Manager,Yes,,2,3
+1004.0,HR ,Male,40.0,,,4200,1,
+1005.0,IT,male,,IT Analyst,No,3900,3,5
+1006.0,,FEMALE,45.0,IT Analyst,Yes,5000,,3
+,Finance,MALE,30.0,Accountant,yes,4800,4,4
+1008.0,Marketing,,28.0,Marketing Lead,No,,2,2
+1009.0,IT,Female,40.0,IT Analyst,NO,5000,3,3
