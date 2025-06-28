@@ -16,7 +16,7 @@ This interactive Power BI dashboard analyzes employee attrition trends, satisfac
 - Custom Visuals & Slicers
 
 ## 📸 Screenshot
-![Dashboard Screenshot](Screenshot 2025-06-28 185826.png)
+![Dashboard Screenshot](Screenshot2025-06-28185826.png)
 
 ## 👤 Author
 **Navaneeth Prem**  
